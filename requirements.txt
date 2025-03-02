@@ -1,0 +1,15 @@
+certifi==2025.1.31
+charset-normalizer==3.4.1
+click==8.1.8
+idna==3.10
+jaraco.classes==3.4.0
+jaraco.context==6.0.1
+jaraco.functools==4.1.0
+keyring==25.6.0
+keyrings.alt==5.0.2
+more-itertools==10.6.0
+pyicloud==1.0.0
+python-dotenv==1.0.1
+requests==2.32.3
+tzlocal==5.3
+urllib3==2.3.0
