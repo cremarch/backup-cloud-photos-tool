@@ -4,7 +4,7 @@ import os
 from os.path import dirname, join
 
 #  load .env file
-load_dotenv(os.getcwd() + "/.env"i)
+load_dotenv(os.getcwd() + "/.env")
 
 # set login information
 apple_id = os.getenv("icloud.user")
